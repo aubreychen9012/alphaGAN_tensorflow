@@ -1,0 +1,14 @@
+Comment: None
+
+input_dim: 32
+z_dim: 10
+batch_size: 64
+learning_rate: 2e-05
+
+Comment: None
+
+input_dim: 32
+z_dim: 10
+batch_size: 64
+learning_rate: 2e-05
+
