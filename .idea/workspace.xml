@@ -28,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1332">
-              <caret line="74" column="60" lean-forward="true" selection-start-line="74" selection-start-column="60" selection-end-line="74" selection-end-column="60" />
+              <caret line="74" column="60" lean-forward="false" selection-start-line="74" selection-start-column="60" selection-end-line="74" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -182,7 +182,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2049" y="104" width="1591" height="1096" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1818754" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -354,7 +353,7 @@
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1332">
-          <caret line="74" column="60" lean-forward="true" selection-start-line="74" selection-start-column="60" selection-end-line="74" selection-end-column="60" />
+          <caret line="74" column="60" lean-forward="false" selection-start-line="74" selection-start-column="60" selection-end-line="74" selection-end-column="60" />
           <folding />
         </state>
       </provider>

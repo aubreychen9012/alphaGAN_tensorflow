@@ -33766,3 +33766,150 @@ Generator Loss:0.764488279819
 Discriminator Loss: 1.3085962534
 Discriminate decoder Loss:1.81705999374
 Discriminate Generator Loss: 0.620183348656
+Epoch: 1, iteration: 740
+Encoder Loss: 9.56395530701
+Decoder Loss: 9.62284946442
+Generator Loss:0.758765697479
+Discriminator Loss: 1.31159579754
+Discriminate decoder Loss:1.84854388237
+Discriminate Generator Loss: 0.597616672516
+Epoch: 1, iteration: 760
+Encoder Loss: 9.69700241089
+Decoder Loss: 9.76643180847
+Generator Loss:0.773270010948
+Discriminator Loss: 1.31983494759
+Discriminate decoder Loss:1.83288526535
+Discriminate Generator Loss: 0.599359512329
+Epoch: 1, iteration: 780
+Encoder Loss: 9.58491230011
+Decoder Loss: 10.123290062
+Generator Loss:0.775659322739
+Discriminator Loss: 1.28199160099
+Discriminate decoder Loss:1.69014716148
+Discriminate Generator Loss: 0.630495250225
+Epoch: 1, iteration: 800
+Encoder Loss: 9.7518453598
+Decoder Loss: 10.2425775528
+Generator Loss:0.765705943108
+Discriminator Loss: 1.28916239738
+Discriminate decoder Loss:1.77846348286
+Discriminate Generator Loss: 0.626247644424
+Epoch: 1, iteration: 820
+Encoder Loss: 9.50150108337
+Decoder Loss: 9.40910148621
+Generator Loss:0.742472410202
+Discriminator Loss: 1.31946742535
+Discriminate decoder Loss:1.93391823769
+Discriminate Generator Loss: 0.594353079796
+Epoch: 1, iteration: 840
+Encoder Loss: 9.34663486481
+Decoder Loss: 9.96167182922
+Generator Loss:0.740171313286
+Discriminator Loss: 1.31949532032
+Discriminate decoder Loss:1.8086938858
+Discriminate Generator Loss: 0.650869548321
+Epoch: 2, iteration: 20
+Encoder Loss: 9.73167324066
+Decoder Loss: 10.3018360138
+Generator Loss:0.746567726135
+Discriminator Loss: 1.32607030869
+Discriminate decoder Loss:1.83194804192
+Discriminate Generator Loss: 0.654410541058
+Epoch: 2, iteration: 40
+Encoder Loss: 9.43791770935
+Decoder Loss: 9.49483680725
+Generator Loss:0.745274305344
+Discriminator Loss: 1.32926344872
+Discriminate decoder Loss:1.94740819931
+Discriminate Generator Loss: 0.605963110924
+Epoch: 2, iteration: 60
+Encoder Loss: 9.43207740784
+Decoder Loss: 10.2787704468
+Generator Loss:0.738284826279
+Discriminator Loss: 1.35179877281
+Discriminate decoder Loss:1.8996578455
+Discriminate Generator Loss: 0.684168577194
+Epoch: 2, iteration: 80
+Encoder Loss: 9.23399066925
+Decoder Loss: 9.43397045135
+Generator Loss:0.768014192581
+Discriminator Loss: 1.29520869255
+Discriminate decoder Loss:1.87741613388
+Discriminate Generator Loss: 0.620031237602
+Epoch: 2, iteration: 100
+Encoder Loss: 9.03884792328
+Decoder Loss: 9.56563663483
+Generator Loss:0.737086236477
+Discriminator Loss: 1.35171556473
+Discriminate decoder Loss:1.89987552166
+Discriminate Generator Loss: 0.649429678917
+Epoch: 2, iteration: 120
+Encoder Loss: 9.13195037842
+Decoder Loss: 9.35234737396
+Generator Loss:0.750320911407
+Discriminator Loss: 1.33165621758
+Discriminate decoder Loss:1.86363816261
+Discriminate Generator Loss: 0.62826859951
+Epoch: 2, iteration: 140
+Encoder Loss: 9.11487007141
+Decoder Loss: 9.69314289093
+Generator Loss:0.725918591022
+Discriminator Loss: 1.3632273674
+Discriminate decoder Loss:1.92059278488
+Discriminate Generator Loss: 0.677543759346
+Epoch: 2, iteration: 160
+Encoder Loss: 8.99160194397
+Decoder Loss: 9.13310623169
+Generator Loss:0.741874098778
+Discriminator Loss: 1.33670127392
+Discriminate decoder Loss:1.92818748951
+Discriminate Generator Loss: 0.614116430283
+Epoch: 2, iteration: 180
+Encoder Loss: 8.87148094177
+Decoder Loss: 9.11823654175
+Generator Loss:0.743368983269
+Discriminator Loss: 1.35918688774
+Discriminate decoder Loss:1.94104158878
+Discriminate Generator Loss: 0.628419995308
+Epoch: 2, iteration: 200
+Encoder Loss: 9.18040084839
+Decoder Loss: 9.77052307129
+Generator Loss:0.748659014702
+Discriminator Loss: 1.34895610809
+Discriminate decoder Loss:1.89528715611
+Discriminate Generator Loss: 0.657391726971
+Epoch: 2, iteration: 220
+Encoder Loss: 8.98542785645
+Decoder Loss: 8.95309638977
+Generator Loss:0.748183727264
+Discriminator Loss: 1.35976457596
+Discriminate decoder Loss:2.11381912231
+Discriminate Generator Loss: 0.596630573273
+Epoch: 2, iteration: 240
+Encoder Loss: 8.8663816452
+Decoder Loss: 8.82281112671
+Generator Loss:0.763382792473
+Discriminator Loss: 1.31691598892
+Discriminate decoder Loss:1.97441673279
+Discriminate Generator Loss: 0.583600997925
+Epoch: 2, iteration: 260
+Encoder Loss: 8.94279956818
+Decoder Loss: 9.22953414917
+Generator Loss:0.737436056137
+Discriminator Loss: 1.348929286
+Discriminate decoder Loss:1.97369778156
+Discriminate Generator Loss: 0.615760922432
+Epoch: 2, iteration: 280
+Encoder Loss: 8.94659614563
+Decoder Loss: 10.2132968903
+Generator Loss:0.727506458759
+Discriminator Loss: 1.36875128746
+Discriminate decoder Loss:1.8720511198
+Discriminate Generator Loss: 0.723502993584
+Epoch: 2, iteration: 300
+Encoder Loss: 8.79563999176
+Decoder Loss: 8.87038135529
+Generator Loss:0.730172157288
+Discriminator Loss: 1.35617637634
+Discriminate decoder Loss:2.07031273842
+Discriminate Generator Loss: 0.592455506325
